@@ -1,0 +1,79 @@
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:mediumblue;
+    font-weight: bolder;
+    text-align: center;
+    text-shadow: 3px 3px 1px black;
+    border-radius: 80px;
+    font-size: 50px;
+    background-color: antiquewhite;
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkblue;
+    background-color: plum;
+    text-align: center;
+    border-radius: 50px;
+}
+h3{
+    text-align: center;
+    text-decoration: rgb(0, 0, 0);
+    font-family: cursive;
+    font-size: 35px;
+    background-color: aliceblue;
+    border: solid 10px #ffaec2;
+    border-radius: 2em 5em / 5em 2em;
+}
+a:link{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    color: black;
+    
+}
+a:visited{
+    color: rgb(0, 0, 0);
+    background-color: bisque;
+    
+}
+
+body{
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-patron-fisuras-hitos-londres-simbolos-gran-bretana-ilustracion-vectorial_1284-1989.jpg);
+    background-repeat: repeat;
+    border-radius: 45px;
+}
+p{
+    font-size: 35px;
+    font-family:  sans-serif;
+    background-color: aliceblue;
+    border: solid 10px #ffaec2;
+    border-radius: 1em 4em / 4em 1em;
+}
+h5{
+    background-color: bisque;
+    font-size: 25px;
+    border-radius: 0.5rem;
+}
+nav{
+    text-align: center;
+ }
+.fcc-btn {
+    background-color: #9effda;
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    font-size: 25px;
+    padding: 15px 25px;
+    border-radius: 35px;
+    margin-left: 80px;
+    border: solid 10px #9b44ff;
+    border-radius: 1em 4em / 4em 1em;
+}
+.fcc-btn1 {
+    background-color: #0077ff;
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    font-size: 25px;
+    padding: 15px 25px;
+    border: solid 10px #d82451;
+    border-radius: 1em 4em / 4em 1em;
+}

@@ -1,0 +1,70 @@
+h1{
+    font-family: 'Lemon', serif;
+    color:rgb(247, 17, 105);
+    font-weight: bolder;
+    text-align: center;
+    text-shadow: 3px 3px 1px black;
+    border-radius: 80px;
+    font-size: 45px;
+    background-color: rgb(182, 251, 253);
+}
+body{
+    background-color: azure;
+    background-size: 1000px;
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-patron-fisuras-hitos-londres-simbolos-gran-bretana-ilustracion-vectorial_1284-1989.jpg);
+}
+.fcc-btn {
+    background-color: #faf89a;
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    font-size: 25px;
+    padding: 15px 25px;
+    border-radius: 35px;
+    margin-left: 80px;
+    border: solid 10px #dbff57;
+    border-radius: 1em 4em / 4em 1em;
+}
+.fcc-btn1 {
+    background-color: #9ff1ff;
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    font-size: 25px;
+    padding: 15px 25px;
+    border: solid 10px #ff4271;
+    border-radius: 1em 4em / 4em 1em;
+}
+.fcc-btn2 {
+    background-color: #a5fca5;
+    color: rgb(0, 0, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    padding: 15px 25px;
+    border-radius: 35px;
+    margin-left: 80px;
+    border: solid 10px #2cff3e;
+    border-radius: 1em 4em / 4em 1em;
+}
+h5{
+    background-color: bisque;
+    font-size: 25px;
+    border-radius: 0.5rem;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    text-align: center;
+    font-family: cursive;
+    font-size: 35px;
+    background-color: aliceblue;
+    border: solid 10px #ffaec2;
+    border-radius: 2em 5em / 5em 2em;
+}
+h5{
+    background-color: rgb(188, 251, 255);
+    font-size: 25px;
+    border-radius: 0.5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+nav{
+ text-align: center;
+}

@@ -1,0 +1,69 @@
+h1{
+    font-family: 'Lemon', serif;
+    color:mediumblue;
+    font-weight: bolder;
+    text-align: center;
+    text-shadow: 3px 3px 1px black;
+    border-radius: 80px;
+    font-size: 40px;
+    background-color: antiquewhite;
+}
+body{
+    background-color: azure;
+    background-size: 1000px;
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-escuela-ingles-diseno-plano_23-2149487419.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1705190400&semt=ais);
+}
+.fcc-btn {
+    background-color: #faf89a;
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    font-size: 25px;
+    padding: 15px 25px;
+    border-radius: 35px;
+    margin-left: 80px;
+    border: solid 10px #dbff57;
+    border-radius: 1em 4em / 4em 1em;
+}
+.fcc-btn1 {
+    background-color: #9ff1ff;
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    font-size: 25px;
+    padding: 15px 25px;
+    border: solid 10px #ff4271;
+    border-radius: 1em 4em / 4em 1em;
+}
+.fcc-btn2 {
+    background-color: #a5fca5;
+    color: rgb(0, 0, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    padding: 15px 25px;
+    border-radius: 35px;
+    margin-left: 80px;
+    border: solid 10px #2cff3e;
+    border-radius: 1em 4em / 4em 1em;
+}
+h5{
+    background-color: bisque;
+    font-size: 25px;
+    border-radius: 0.5rem;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    text-align: center;
+    font-family: cursive;
+    font-size: 35px;
+    background-color: rgb(161, 211, 255);
+    border: solid 10px #ffaec2;
+    border-radius: 2em 5em / 5em 2em;
+}
+h5{
+    background-color: rgb(134, 244, 252);
+    font-size: 25px;
+    border-radius: 0.5rem;
+}
+nav{
+ text-align: center;
+}
